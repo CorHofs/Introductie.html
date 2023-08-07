@@ -1,0 +1,116 @@
+table {
+border: solid 3px CornflowerBlue;
+}
+th{
+    background-color: #40E0D0;
+   width: 300px;
+   height: 20px;
+}
+td{
+    text-align: center;
+    background-color: #AFEEEE;
+   width: 300px;
+   height: 20px;
+ } 
+body{
+font-family: Arial, Helvetica, sans-serif;  
+background-color: #FFFFCC;
+padding-right: 5px;
+padding-left: 5px;
+}
+header{
+margin-left: auto;
+margin-right: auto;
+color: #000000;
+background-color: #00CED1;
+width: 130px;
+height: 30px;
+text-align: center;
+border-style: none;
+padding-bottom: 35px;
+border-top: 1px solid #000000;
+border-right: 1px solid #000000;
+border-bottom: 1px solid #000000;
+border-left: 1px solid #000000;
+}
+ul a{
+color: white;
+text-decoration: none;
+}
+p{
+font-family: Arial, Helvetica, sans-serif;
+text-align:left;
+background-color: #E6E6FA;
+height: 70px;
+width: 55%;
+margin-left: auto;
+margin-right: auto;
+padding-top: 1%;
+padding-right: 2%;
+padding-bottom: 1%;
+padding-left: 2%;
+}  
+.container {
+display: flex;
+align-items: center;
+justify-content: center;
+}  
+footer{
+margin-left: auto;
+margin-right: auto;
+color: red;
+background-color: #FFFF00;
+width: 8%;
+height: 25px;
+text-align: center;
+padding-bottom: 30px;
+border-top: 1px solid #000000;
+border-right: 1px solid #000000;
+border-bottom: 1px solid #000000;
+border-left: 1px solid #000000;
+} 
+li{
+display: inline-block;
+height: 22px;
+width: 110px;
+padding: 12px;
+text-align: center;
+color: white;
+border-top: 2px solid #000000;
+border-right: 2px solid #000000;
+border-bottom: 2px solid #000000;
+border-left: 2px solid #000000;
+background-color: #6699FF;
+}
+li:hover{
+background-color: red;
+border-style:dotted;
+} 
+form{
+text-align: center;
+}
+input{
+background-color: #AFEEEE;
+}
+textarea{
+font-family: Arial, Helvetica, sans-serif; 
+height: 100px;
+padding: 5px 4px;
+background-color: #E0FFFF;
+border-top: 2px solid #000000;
+border-right: 2px solid #000000;
+border-bottom: 2px solid #000000;
+border-left: 2px solid #000000;
+}
+button{
+background-color: #AFEEEE;
+text-align: center;
+}
+button:hover{
+background-color: #00CED1;
+border-style: dotted;    
+}
+ul{
+text-align: center;   
+}   
+   
